@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405056545000",
+    "firebase_url": "https://librarypush-fd5f8.firebaseio.com",
+    "project_id": "librarypush-fd5f8",
+    "storage_bucket": "librarypush-fd5f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405056545000:android:98f54acdc64aae5e04e95d",
+        "android_client_info": {
+          "package_name": "com.librarypushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405056545000-pcttvjt21soc6abc1v8vnkp09ti579b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0OTEPcxQpXk4bUYFmmvV6CSYaJ650Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405056545000-pcttvjt21soc6abc1v8vnkp09ti579b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
